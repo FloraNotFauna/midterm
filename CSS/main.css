@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: hotpink;
+}
+Header{
+  font-family: 'Noto Sans', 'sans-serif';
+}
+p {
+  font-family: 'Noto Serif', 'serif';
+}
